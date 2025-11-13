@@ -1,12 +1,12 @@
 [submodule "website"]
 	path = website
-	url = https://github.com/fireact-dev/website.git
+	url = https://github.com/davidshulman/website.git
 [submodule "docs"]
 	path = docs
-	url = https://github.com/fireact-dev/docs.git
+	url = https://github.com/davidshulman/docs.git
 [submodule "source"]
 	path = source
-	url = https://github.com/fireact-dev/source.git
+	url = https://github.com/davidshulman/source.git
 [submodule "demo"]
 	path = demo
-	url = https://github.com/fireact-dev/demo.git
+	url = https://github.com/davidshulman/demo.git
