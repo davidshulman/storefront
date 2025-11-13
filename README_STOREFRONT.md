@@ -5,7 +5,7 @@ Follow these steps to run the Storefront project (`source/` monorepo) locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/fireact-dev/storefront.git
+git clone https://github.com/davidshulman/storefront.git
 cd storefront
 ```
 
